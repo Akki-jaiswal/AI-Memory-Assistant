@@ -1,0 +1,10 @@
+mss
+opencv-python
+numpy
+imagehash
+Pillow
+psutil
+pywin32
+rapidocr-onnxruntime
+sentence-transformers
+pystray
