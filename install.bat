@@ -10,6 +10,21 @@ echo Please ensure Python is installed on your system.
 pause
 
 echo.
+if not exist requirements.txt (
+    echo ===================================================
+    echo [ERROR] COULD NOT FIND requirements.txt!
+    echo ===================================================
+    echo Are you running this directly from inside the downloaded ZIP file?
+    echo You MUST extract the folder first!
+    echo.
+    echo 1. Close this window.
+    echo 2. Right-click the downloaded .zip file and select "Extract All..."
+    echo 3. Open the new extracted folder and run install.bat again.
+    echo.
+    pause
+    exit
+)
+
 echo [1/2] Installing required AI libraries (This may take a minute)...
 pip install -r requirements.txt
 

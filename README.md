@@ -36,9 +36,11 @@ Click the button below to download the app directly to your computer:
 </a>
 
 ### Step 2: Install
-1. Extract the downloaded ZIP file.
-2. Open the folder and double-click the **`install.bat`** file.
+1. **RIGHT-CLICK** the downloaded ZIP file and select **"Extract All..."**. *(Do not run it directly inside the ZIP!)*
+2. Open the newly extracted folder and double-click the **`install.bat`** file.
 3. The script will automatically install the required AI libraries and launch the application silently in the background!
+
+> ⚠️ **Note on Windows Security:** Because this is a new open-source tool, Windows may show a *"Publisher could not be verified"* or *"Windows protected your PC"* warning. Click **Run** (or click **More info** -> **Run anyway**) to continue. You can read the code yourself to verify it is 100% safe!
 
 ## 💡 How to Use
 1. Look at your Windows Taskbar (in the bottom right corner near your clock).
