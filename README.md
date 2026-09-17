@@ -28,7 +28,15 @@ Unlike commercial alternatives, **this app respects your privacy.**
 
 We designed this to be completely frictionless for non-technical users. 
 
-1. Download or clone this repository to your Windows machine.
+### Step 1: Download
+Click the button below to download the app directly to your computer:
+
+<a href="https://github.com/Akki-jaiswal/AI-Memory-Assistant/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/Download_Application_ZIP-0072C6?style=for-the-badge&logo=windows&logoColor=white" alt="Download ZIP" />
+</a>
+
+### Step 2: Install
+1. Extract the downloaded ZIP file.
 2. Open the folder and double-click the **`install.bat`** file.
 3. The script will automatically install the required AI libraries and launch the application silently in the background!
 
